@@ -66,4 +66,3 @@ sudo docker-compose exec web python manage.py migrate --noinput
 ```
 sudo docker-compose exec web python manage.py collectstatic --no-input
 ```
-
